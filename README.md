@@ -1,8 +1,11 @@
 ## 
--👋 Hi, I'm Amnah Abd Al-Ghafour 
--👀 I'm interested in Programing  
--🌱 I'm currently learning JavaScript and Data Science 
--📫 How to reach me by my email : 
+👋 Hi, I'm Amnah Abd Al-Ghafour 
+
+👀 I'm interested in Programing  
+
+🌱 I'm currently learning JavaScript and Data Science 
+
+📫 How to reach me by my email : 
     aminarabayaa@gmail.com 
 
 <!--

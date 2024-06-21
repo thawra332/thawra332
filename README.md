@@ -1,4 +1,9 @@
-## Hi there 👋
+## 
+👋 Hi, I'm Amnah Abd Al-Ghafour 
+👀 I'm interested in Programing  
+🌱 I'm currently learning JavaScript and Data Science 
+📫 How to reach me by my email : 
+aminarabayaa@gmail.com 
 
 <!--
 **thawra332/thawra332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

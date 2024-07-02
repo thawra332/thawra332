@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amnah Abd Al-Ghafour</h1>
 <h3 align="center">A third-year Computer Systems Engineering student with a strong foundation in Python and SQL. My primary interests lie in data science and web development. Currently, I am expanding my knowledge and skills in both fields. Passionate about leveraging technology to solve real-world problems, I am always eager to learn and take on new challenges.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/thawra332/thawra332/assets/153298946/b9cd33db-91b0-4404-99e2-ea7a30511c49)
-"> 
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzZWZjaDRycHY2bHZndzYyMmo4c283bzNrMGRqNzJjb3lmcWs4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thawra332&label=Profile%20views&color=0e75b6&style=flat" alt="thawra332" /> </p>
 

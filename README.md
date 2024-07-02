@@ -1,9 +1,5 @@
 ## 
-👋 Hi, I'm Amnah Abd Al-Ghafour 
-
-👀 I'm interested in Programing  
-
-🌱 I'm currently learning JavaScript and Data Science 
+I am a third-year Computer Systems Engineering student, with a strong foundation in Python and SQL. My primary interests lie in data science and web development. Currently, I am expanding my knowledge and skills in both fields. Passionate about leveraging technology to solve real-world problems, I am always eager to learn and take on new challenges. 
 
 📫 How to reach me by my email : 
     aminarabayaa@gmail.com 

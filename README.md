@@ -1,8 +1,11 @@
-## 
-I am a third-year Computer Systems Engineering student, with a strong foundation in Python and SQL. My primary interests lie in data science and web development. Currently, I am expanding my knowledge and skills in both fields. Passionate about leveraging technology to solve real-world problems, I am always eager to learn and take on new challenges. 
+                                                       Hi 👋, I'm Amnah Abd Al-Ghafour
+##
+I am a third-year Computer Systems Engineering student with a strong foundation in Python and SQL. My primary interests lie in data science and web development. Currently, I am expanding my knowledge and skills in both fields. Passionate about leveraging technology to solve real-world problems, I am always eager to learn and take on new challenges.
 
-📫 How to reach me by my email : 
-    aminarabayaa@gmail.com 
+📫 How to reach me:
+aminarabayaa@gmail.com
+
+
 
 <!--
 **thawra332/thawra332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
